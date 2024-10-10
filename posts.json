@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Post 1",
+        "url": "posts/august_26.html",
+        "image": "images/photo_2024-10-10_17-31-22.jpg",
+        "summary": "August 25 (Sunday) လူငယ်ဝတ်ပြုကိုးကွယ်ခြင်းချိန်မှာတော့ မဖိုးမူ မှသက်သေခံဝေမျှ...see more",
+        "date": "August 26, 2024"
+    },
+    {
+        "title": "Post 2",
+        "url": "posts/september_1.html",
+        "image": "images/457737732_535308395692825_5106646397622884330_n.jpg",
+        "summary": "1(Sep) Sunday လူငယ်ဝတ်ပြုကိုးကွယ်ခြင်းအချိန်မှာတော့လူငယ်ဆရာအယ်ဒါးဖိုးထံမှ...see more",
+        "date": "September 1, 2024"
+    },
+    {
+        "title": "Post 3",
+        "url": "posts/september_8.html",
+        "image": "images/458386913_539864495237215_8798612354969067895_n.jpg",
+        "summary": "8(Sep) Sunday လူငယ်ဝတ်ပြုကိုးကွယ်ခြင်းချိန်မှာတော့ဆရာရော်နယ်လျံထံမှ...see more",
+        "date": "September 8, 2024"
+    },
+
+    {
+        "title": "Post 4",
+        "url": "posts/september_22.html",
+        "image": "images/sep 22.jpg",
+        "summary": "22.9.2024( Sunday ) လူငယ်ဝတ်ပြုကိုးကွယ်ခြင်းချိန်မှာတော့အမခင်သော်တာသိန်းမှ.see more",
+        "date": "September 22, 2024"
+    },
+    
+    {
+        "title": "Post 5",
+        "url": "posts/september_29.html",
+        "image": "images/sep 29(1).jpg",
+        "summary": "Sunday Sep(29) လူငယ်ဝတ်ပြုကိုးကွယ်ခြင်းချိန်မှာတော့ဆရာအယ်ဒါးဖိုးထံမှ...see more",
+        "date": "September 29, 2024"
+    },
+
+     
+    {
+        "title": "Post 6",
+        "url": "posts/october_6.html",
+        "image": "images/oct 6(1).jpg",
+        "summary": "Sunday Sep(29) လူငယ်ဝတ်ပြုကိုးကွယ်ခြင်းချိန်မှာတော့ဆရာအယ်ဒါးဖိုးထံမှ...see more",
+        "date": "September 6, 2024"
+    }
+
+
+]
